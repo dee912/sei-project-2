@@ -61,7 +61,7 @@ const [formData, setFormData] = React.useState({
 
 ```
 
-From there we then began testing and building the front end for the form page to interact with the POST request correctly.
+From there I began testing and building the front end for the form page to interact with the POST request correctly.
 
 ```JS
 export function createFootprint(formData) {
@@ -109,7 +109,7 @@ One of the main bugs we ran into was a wording issue which took us a few hours t
 
 ## Challenges
 * Working through live sharing on VScode meant that if someone was making changes it would break the port for each member.
-* The Difference in schedules for each of us was difficult during the evenings.
+* The difference in schedules for each of us was difficult during the evenings.
 
 ## Wins
 
@@ -126,9 +126,9 @@ Had a really good team to work with, always happy to help each other if we found
 ## Key learnings
 
 * Basics of how to use data from an API
-* Working with react for front end design and understand element such as:
+* Working with React for front end design and understand element such as:
 ** useEffect, Axios requests, useState and event handlers.
 * What it’s like to work as part of a group
-* The pros and cons of css frameworks 
+* The pros and cons of CSS frameworks 
 ** Pros: Quick to get a basic well spaced layout, mostly fully responsive for mobile and well wrote documentation to follow
-** Cons: Restrictive when trying to customise elements and very easy to tell the site was made using bulma and 
+** Cons: Restrictive when trying to customise elements and very easy to tell the site was made using Bulma. 
